@@ -6,5 +6,5 @@ Complex systems theory strives to address how global phenomena arise from local 
 
 In this project an investigation the Oslo Model was undertaken as means of exploring Self Organised Criticality, a property inherent to all dynamical systems with a steady state attractor.
 
-Please see my full project write-up: [*A Demonstration of Self Organised Criticality:
+Please see my full project write-up [*A Demonstration of Self Organised Criticality:
 The Oslo Model*](https://github.com/Shonacw/Complexity_Science_Project/blob/main/ShonaCurtisWalcott_ComplexityReport.pdf), and my accompanying code for the [*Oslo Model*](https://github.com/Shonacw/Complexity_Science_Project/blob/main/Complexity.py) and [*analysis*](https://github.com/Shonacw/Complexity_Science_Project/blob/main/Complexity_Run.py).
